@@ -1,0 +1,23 @@
+.shopping-cart {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  text-align: center;
+}
+
+.shopping-cart h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.shopping-cart p {
+  font-size: 16px;
+  margin: 5px 0;
+}
+
+hr {
+  width: 25%;
+  border: 1px solid black;
+}

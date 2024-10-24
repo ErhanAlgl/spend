@@ -1,0 +1,43 @@
+.header {
+  padding: 20px;
+  background-color: white;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.container {
+  width: 100%;
+  font-size: 24px;
+  text-align: center;
+}
+
+.person-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.person-name {
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.person-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.balance {
+  position: sticky;
+  top: 0;
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+  padding: 20px;
+  background-color: #2AC87F;
+  color: white;
+  z-index: 1000;
+  transition: all 0.5s ease-in-out;
+}
