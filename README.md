@@ -3,7 +3,7 @@
 This project simulates an app where users can spend Elon Musk's money on fictitious products. Users can buy and sell different products while viewing their balance in an animated manner.
 
 ## Demo
-[Live Demo]() - Play the game online!
+[Live Demo](https://spend-elon-musks-money.netlify.app/) - Play the game online!
 
 ## Features
 
